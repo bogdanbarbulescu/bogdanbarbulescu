@@ -1,4 +1,5 @@
-### Hi 👋, I'm Bogdan
+### Hi 👋, 
+I'm Bogdan, an electronics engineer with a strong interest in ethical hacking, penetration testing, network security and vulnerability analysis.
 
 - 🌱 I’m currently learning <a href="https://certifications.tcm-sec.com/pnpt/">PNPT</a>
 - 👨‍💻 My projects: https://bogdanbarbulescu.github.io/home-labs.html
