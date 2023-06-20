@@ -5,6 +5,8 @@ I'm Bogdan, an electronics engineer with a strong interest in ethical hacking, p
 
 <a href="https://www.credly.com/users/bogdan-barbulescu.914cdc46/badges" rel="nofollow"><img src="https://camo.githubusercontent.com/f547897d8b84529cb8ec4356e79c70a4bb765d9eb39fca1993fc59c403a7b532/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437265646c792d2532334646364230303f6c6f676f3d637265646c79266c6f676f436f6c6f723d7768697465267374796c653d666c6174" alt="Credly" data-canonical-src="https://img.shields.io/badge/-Credly-%23FF6B00?logo=credly&amp;logoColor=white&amp;style=flat" style="max-width: 100%;"></a>
 
+<a href="https://tryhackme.com/p/V.B." rel="nofollow"><img src="https://camo.githubusercontent.com/b6ccb5fc83a3710537e74ed9a9d82dff96eb9eb5232419596c9289aa91e12bdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5472794861636b4d652d2532333231324334323f7374796c653d666c6174266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d7768697465" alt="TryHackMe" data-canonical-src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=flat&amp;logo=tryhackme&amp;logoColor=white" style="max-width: 100%;"></a>
+
 - 🌱 I’m currently learning <a href="https://certifications.tcm-sec.com/pnpt/">PNPT</a>
 - 👨‍💻 My projects: https://bogdanbarbulescu.github.io/home-labs.html
 - 📄 Know about my experiences: https://bogdanbarbulescu.github.io/about.html
