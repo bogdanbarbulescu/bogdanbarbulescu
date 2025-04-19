@@ -30,7 +30,7 @@ I'm a **Data Center Network Engineer** with a strong passion for **network secur
 *   🏅 **Certifications:**
     *   [CompTIA Security+](https://www.credly.com/badges/60d7a784-4c3b-46f8-b0f3-524ba67af221)
     *   [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/394cdaf5-322b-41e2-a1c6-9f62fd2b03e4)
-    *   https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/140453732
+      
 
 ---
 
